@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="title_home">Home</string>
+    <string name="title_qidirish">Qidirish</string>
+    <string name="title_sozlar">Sozlar</string>
+    <string name="title_dastur">Dastur</string>
+</resources>
